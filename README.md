@@ -34,8 +34,6 @@
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
       </a>
       <br>NodeJS
-    </td>
-    <td align="center" width="96">
       <a>
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"/>
       </a>
@@ -65,4 +63,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-ajay22@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:ajay22@navgurukul.org)
 [![LinkedIn Badge](https://img.shields.io/badge/-https://www.linkedin.com/in/ajay-meena-6ba776242/t-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ajay-meena-6ba776242)](https://www.linkedin.com/in/ajay-meena-6ba776242)
 
-<h3 align="center">thank you</h3>
+<h3 align="center">Thank you</h3>

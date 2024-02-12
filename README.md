@@ -2,7 +2,8 @@
     <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
   </p>
   &nbsp;***About me ....***
-  <img align='right' src='https://user-images.githubusercontent.com/[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fclean-coding&psig=AOvVaw073t8BLv0Fk_giPEbV_m6W&ust=1707843863273000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC1m6ikpoQDFQAAAAAdAAAAABAF](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fclean-coding&psig=AOvVaw073t8BLv0Fk_giPEbV_m6W&ust=1707843863273000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC1m6ikpoQDFQAAAAAdAAAAABAF)' width='200"'>
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<!--   <img align='right' src='https://user-images.githubusercontent.com/[https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fclean-coding&psig=AOvVaw073t8BLv0Fk_giPEbV_m6W&ust=1707843863273000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC1m6ikpoQDFQAAAAAdAAAAABAF](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fclean-coding&psig=AOvVaw073t8BLv0Fk_giPEbV_m6W&ust=1707843863273000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC1m6ikpoQDFQAAAAAdAAAAABAF)' width='200"'> -->
   
   ✔ Known as: ***Ajay Meena*** <br>
   ✔ 🔭 I’m currently working as a Software Developer at Navgurukul.<br>

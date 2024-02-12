@@ -2,7 +2,7 @@
     <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
   </p>
   &nbsp;***About me ....***
-  <img align='right' src='https://user-images.githubusercontent.com/![image](https://github.com/ajaybedwall/ajaybedwall/assets/131391125/825881b6-f39b-4e61-a46a-e087f1c34ba1)
+  <img align='right' src='(https://github.com/ajaybedwall/ajaybedwall/assets/131391125/825881b6-f39b-4e61-a46a-e087f1c34ba1)
 ' width='200"'>
 
   

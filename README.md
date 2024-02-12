@@ -53,7 +53,8 @@
       </a>
      </div>
 ***Let's Connect ....*** 
-<br/>
+<br>
+<br>
 
 
 [![Gmail Badge](https://img.shields.io/badge/-ajay22@navgurukul.org-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mailharshkhatri@gmail.com)](mailto:ajay22@navgurukul.org)

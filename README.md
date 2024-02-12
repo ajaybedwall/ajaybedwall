@@ -46,6 +46,8 @@
         <img src="https://github.com/giribabu22/giribabu22/assets/102803078/70cbde69-3e8b-4f5f-8d27-c9252f2c7b6d" width="40"/>
       </a>
       <br>Git
+       <br>
+       
     </td>
     <td align="center" width="96">
       <a>

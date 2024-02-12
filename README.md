@@ -31,9 +31,6 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
-      </a>
-      <a>
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"/>
       </a>
       <br>HTML

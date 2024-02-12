@@ -2,7 +2,7 @@
     <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
   </p>
   &nbsp;***About me ....***
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+  <img align='right' src='https://user-images.githubusercontent.com/[5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Fclean-coding&psig=AOvVaw073t8BLv0Fk_giPEbV_m6W&ust=1707843863273000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC1m6ikpoQDFQAAAAAdAAAAABAF)' width='200"'>
   
   ✔ Known as: ***Ajay Meena*** <br>
   ✔ 🔭 I’m currently working as a Software Developer at Navgurukul.<br>

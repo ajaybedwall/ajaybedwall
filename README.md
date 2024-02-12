@@ -2,7 +2,8 @@
     <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
   </p>
   &nbsp;***About me ....***
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+
   
   ✔ Known as: ***Ajay Meena*** <br>
   ✔ 🔭 I’m currently working as a Software Developer at Navgurukul.<br>

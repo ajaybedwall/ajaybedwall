@@ -20,7 +20,7 @@
     <tr>
       <td align="center" width="96">
         <a>
-          <img src="https://github.com/giribabu22/giribabu22/assets/102803078/d2dff2a8-13d4-4bb2-9d92-6bf93cbda0f4" width="40"/>
+          <img src="https://github.com/ajaybedwallajaybedwall/assets/102803078/d2dff2a8-13d4-4bb2-9d92-6bf93cbda0f4" width="40"/>
         </a>
         <br>Python
       </td>

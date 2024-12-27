@@ -1,73 +1,92 @@
 <p align="center">
     <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
-<h1 align="center">Hi, I'm Ajay Meena 👋</h1>
+
+# Hi, I'm **Ajay Meena** 👋
+#### Software Developer at **Navgurukul** | Web Enthusiast | Open Source Contributor
 
 <p align="center">
-    <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+    <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
 </p>
 
-### 🚀 About Me
-- 🔭 Currently working as a Software Developer at **Navgurukul**.
-- 🌱 Always learning something new and improving my skills.
-- 💬 Ask me anything, I will surely try to help you out.
-- 📚 Passionate about **Open Source** and **Web Development**.
-- 🎯 Fun fact: I love solving coding challenges and making new things every day.
+---
 
-### ⚡ Skills & Tools
+### 🚀 **About Me**
+- **🔭 I’m currently working as a Software Developer at Navgurukul.**
+- **🌱 I’m always learning something new—whether it’s a new tech stack or solving coding challenges.**
+- **💬 Feel free to ask me anything, I’m happy to help!**
+- **🎯 I enjoy contributing to open-source projects and building web applications.**
+- **🧑‍💻 I believe in the power of clean, maintainable code and effective collaboration.**
 
-**Languages**:
+---
+
+### 💻 **Tech Stack & Tools**
+Here are the technologies I love working with:
+
+#### **Programming Languages**:
 - ![Python Badge](https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white)
 - ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 - ![HTML Badge](https://img.shields.io/badge/-HTML-orange?style=flat&logo=html5&logoColor=white)
 - ![CSS Badge](https://img.shields.io/badge/-CSS-blue?style=flat&logo=css3&logoColor=white)
 
-**Tools**:
-- ![Git Badge](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
-- ![Node.js Badge](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
+#### **Frameworks & Libraries**:
 - ![React Badge](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Node.js Badge](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white)
+- ![Express Badge](https://img.shields.io/badge/-Express-black?style=flat&logo=express&logoColor=white)
+
+#### **Databases**:
 - ![MongoDB Badge](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white)
+- ![MySQL Badge](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+#### **Version Control & Tools**:
+- ![Git Badge](https://img.shields.io/badge/-Git-orange?style=flat&logo=git&logoColor=white)
+- ![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+- ![VSCode Badge](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🌟 Projects
+### 🌟 **My Projects**
+I love building cool stuff. Here are some projects that showcase my skills:
 
-Here are some of the projects I have worked on:
+- **[E-Commerce Website](Link to Project)**  
+  A fully functional online store with product listings, cart management, and checkout. Built with React and Node.js.
 
-- [**Project 1: E-Commerce Site**](Link to Project)  
-  An online e-commerce platform that allows users to browse, add items to the cart, and proceed with checkout. Technologies used: React, Node.js, MongoDB.
+- **[Blog Platform](Link to Project)**  
+  A platform for creating and managing blogs. Features include user authentication, comment systems, and an admin panel. Built using React, Express, and MongoDB.
 
-- [**Project 2: Blog Platform**](Link to Project)  
-  A blog platform where users can create, read, update, and delete blog posts. Features include a commenting system and search functionality. Technologies: React, Express, MongoDB.
-
-- [**Project 3: Crypto Dashboard**](Link to Project)  
-  A crypto dashboard that provides real-time price data and trends of various cryptocurrencies. Built using CoinGecko API. Technologies: React, Chart.js.
+- **[Crypto Dashboard](Link to Project)**  
+  Real-time cryptocurrency price tracking and visualization dashboard. Integrates the CoinGecko API and uses React for dynamic UI.
 
 ---
 
-### 💻 GitHub Stats
+### 📈 **GitHub Stats**
 
 <div align="center">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ajaybedwall&show_icons=true&theme=tokyonight" width="450" />
 </div>
 
-### 📈 GitHub Activity
-
+#### **Top Languages**:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajaybedwall&langs_count=10&layout=compact)](https://github.com/ajaybedwall)
 
 ---
 
-### 📫 Contact Me
-- Email: [ajaymeena@example.com](mailto:ajaymeena@example.com)
-- LinkedIn: [Ajay Meena](https://www.linkedin.com/in/ajaymeena)
-- GitHub: [ajaybedwall](https://github.com/ajaybedwall)
+### 📫 **Connect with Me**
+- **LinkedIn**: [Ajay Meena](https://www.linkedin.com/in/ajaymeena)
+- **Email**: [ajaymeena@example.com](mailto:ajaymeena@example.com)
+- **GitHub**: [ajaybedwall](https://github.com/ajaybedwall)
+- **Twitter**: [@ajaymeena](https://twitter.com/ajaymeena)
 
 ---
 
-### 🎯 Fun Facts
-- I love solving coding challenges and actively participate in hackathons.
-- Always open to collaborating on open-source projects.
-- I enjoy learning new technologies and applying them in real-world projects.
+### 🎯 **Fun Facts**
+- I actively participate in **hackathons** and enjoy **coding challenges**.
+- I’m passionate about contributing to the **open-source community**.
+- **Lifelong learning** is my motto. I love experimenting with new tools and technologies!
+
+---
+
+### 🎶 **Currently Listening To** 🎧
+[![Spotify](https://img.shields.io/badge/Listen_on_Spotify-green?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com)
 
 ---
 

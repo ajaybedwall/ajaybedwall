@@ -45,18 +45,6 @@ Here are the technologies I love working with:
 
 ---
 
-### 🌟 **My Projects**
-I love building cool stuff. Here are some projects that showcase my skills:
-
-- **[E-Commerce Website](Link to Project)**  
-  A fully functional online store with product listings, cart management, and checkout. Built with React and Node.js.
-
-- **[Blog Platform](Link to Project)**  
-  A platform for creating and managing blogs. Features include user authentication, comment systems, and an admin panel. Built using React, Express, and MongoDB.
-
-- **[Crypto Dashboard](Link to Project)**  
-  Real-time cryptocurrency price tracking and visualization dashboard. Integrates the CoinGecko API and uses React for dynamic UI.
-
 ---
 
 ### 📈 **GitHub Stats**
